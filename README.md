@@ -13,3 +13,8 @@ At the bare minimum, web developers really just need a high school diploma. In m
 ## Technical Skills
 - Knowledge of a variety of programming languages
 - Skill in graphic design
+## Non-Technical Skills
+- Organization
+- Creativity
+- Customer service skills
+- Detail oriented mindset
