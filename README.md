@@ -20,3 +20,6 @@ At the bare minimum, web developers really just need a high school diploma. In m
 - Detail oriented mindset
 ## General Salary Range
 Web developers make anywhere from $39000 to $75000 per year.
+## Post Secondary Program
+- Computer Science at University of Toronto
+- Entrance requirements are Grade 12 English and Calculus, in the low 90s grade range.
