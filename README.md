@@ -26,3 +26,5 @@ Web developers make anywhere from $39000 to $75000 per year.
 #### **First Year Courses**
 People who already have an understanding of coding can take more advanced programming courses, mandatory calculus, and additional half courses (elective courses working towards a specific major program).
 People who have not coded before will take still have to take mandatory calculus and half courses, but will have beginner programming courses.
+#### **Education Time**
+After the first year, students apply to a specialized major program. After they finish, they will be able to receive their degree. Total time should take about 3-4 years in post secondary.
