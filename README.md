@@ -33,3 +33,9 @@ At St. Augustine, the App Development team created and is currently managing and
 The University of Toronto recommends the following for more experience:
 - Term Projects (side projects that you work on with other people or by yourself during the school term)
 - Summer USRA Projects (research projects that are eligible for government grants)
+## Entry Level Job
+#### **Website Developer for Sparkle of Hope Multicultural Communication Centre Inc.**
+- Located in York, Ontario
+- Remote work available
+- Job requires the creation of storyboards/mockups, evaluating different media products, working a team to create websites and conduct quality tests.
+- Experience required ranges from 7 months to 1 year.
