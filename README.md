@@ -23,3 +23,6 @@ Web developers make anywhere from $39000 to $75000 per year.
 ## Post Secondary Program
 - Computer Science at University of Toronto
 - Entrance requirements are Grade 12 English and Calculus, in the low 90s grade range.
+#### **First Year Courses**
+People who already have an understanding of coding can take more advanced programming courses, mandatory calculus, and additional half courses (elective courses working towards a specific major program).
+People who have not coded before will take still have to take mandatory calculus and half courses, but will have beginner programming courses.
