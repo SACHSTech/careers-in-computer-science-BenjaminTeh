@@ -39,3 +39,11 @@ The University of Toronto recommends the following for more experience:
 - Remote work available
 - Job requires the creation of storyboards/mockups, evaluating different media products, working a team to create websites and conduct quality tests.
 - Experience required ranges from 7 months to 1 year.
+- Working 30 hours/week, for $30 - $40/hour.
+## Mid Level Job
+#### **Wordpress Web Developer for Copp Marketing + Design**
+- Located in Waterloo, Ontario
+- Remote work temporarily available
+- Job description is general web developing using a language called Wordpress
+- Skills required in front-end web development, client communication, managing and working on several projects at once, and web markup languages such as HTML. Experience in other languages such as Javascript, PHP, Wordpress, and Photoshop is also required.
+- Working 37.5 hours/week, for $44663/year.
