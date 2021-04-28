@@ -54,3 +54,18 @@ The University of Toronto recommends the following for more experience:
 - Remote work temporary
 - Job requires: Vanilla Javascript, REACT, Redux, Node JS, raw Javascript, CSS, HTML, NEXTJS, LERNA, Monoropo, Mocha, Jest, and experience with browser-based debugging.
 - 5 years of experience required in front-end developing, and 1 year of experience in all languages above, except for Monoropo, in which 1 year is preferred.
+- Working 40 hours/week, $55-60/hour.
+## Works Cited
+*Indeed*, [https://ca.indeed.com/jobs?q=Web%20Developer&vjk=fbbca1fb47dcac08&advn=4557798248787428](https://ca.indeed.com/jobs?q=Web%20Developer&vjk=fbbca1fb47dcac08&advn=4557798248787428).
+*Indeed*, [https://ca.indeed.com/job/front-end-developer-c075cebbfa9629c7](https://ca.indeed.com/job/front-end-developer-c075cebbfa9629c7).
+“Average Web Developer Salary in Canada.” *PayScale*, [www.payscale.com/research/CA/Job=Web_Developer/Salary](www.payscale.com/research/CA/Job=Web_Developer/Salary).
+Barking Dog Studios, barking.ca. “Computer Science.” *Ontario Universities' INFO*, [www.ontariouniversitiesinfo.ca/programs/203](www.ontariouniversitiesinfo.ca/programs/203).
+CareerExplorer. “What Does a Web Developer Do?” *CareerExplorer*, CareerExplorer, 14 Nov. 2019, [www.careerexplorer.com/careers/web-developer/](www.careerexplorer.com/careers/web-developer/).
+“Choosing Your First Year Courses.” *Department of Computer Science, University of Toronto*, [web.cs.toronto.edu/undergraduate/first-year-courses](web.cs.toronto.edu/undergraduate/first-year-courses).
+“CollegeGrad.” *Jobs, Career, Salary and Education Information*, [collegegrad.com/careers/web-developers](collegegrad.com/careers/web-developers).
+“CollegeGrad.” *Jobs, Career, Salary and Education Information*, [collegegrad.com/careers/computer-and-information-systems-managers](collegegrad.com/careers/computer-and-information-systems-managers).
+“Computer Science.” *Computer Science | Academic Calendar*, [fas.calendar.utoronto.ca/section/Computer-Science](fas.calendar.utoronto.ca/section/Computer-Science).
+“Computer Science.” *Computer Science | Academic Calendar*, [fas.calendar.utoronto.ca/section/Computer-Science](fas.calendar.utoronto.ca/section/Computer-Science).
+“Computer Science Admission Category.” *Faculty of Arts & Science*, 5 Apr. 2021, [www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#admission-requirements-accordion-3](www.artsci.utoronto.ca/future/ready-apply/admission-categories/computer-science#admission-requirements-accordion-3).
+“Government of Canada / Gouvernement Du Canada.” *Job Bank*, Government of Canada / Gouvernement Du Canada, 23 Mar. 2021, [www.jobbank.gc.ca/jobsearch/jobposting/34164042](www.jobbank.gc.ca/jobsearch/jobposting/34164042).
+Government of Canada, Natural Sciences and Engineering Research Council of Canada. “NSERC  Undergraduate Student Research Awards.” *Natural Sciences and Engineering Research Council of Canada (NSERC)*, 16 Mar. 2021, [www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp](www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp).
